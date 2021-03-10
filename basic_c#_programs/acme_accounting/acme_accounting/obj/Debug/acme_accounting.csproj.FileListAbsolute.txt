@@ -1,0 +1,6 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\bin\Debug\acme_accounting.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\bin\Debug\acme_accounting.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\bin\Debug\acme_accounting.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\obj\Debug\acme_accounting.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\obj\Debug\acme_accounting.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\acme_accounting\acme_accounting\obj\Debug\acme_accounting.pdb
