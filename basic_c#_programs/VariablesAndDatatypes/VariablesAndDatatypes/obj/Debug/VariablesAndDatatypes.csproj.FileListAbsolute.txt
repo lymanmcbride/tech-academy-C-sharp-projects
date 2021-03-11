@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.pdb

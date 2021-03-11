@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\bin\Debug\Daily_report_submit_project.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\bin\Debug\Daily_report_submit_project.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\bin\Debug\Daily_report_submit_project.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\obj\Debug\Daily_report_submit_project.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\obj\Debug\Daily_report_submit_project.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\obj\Debug\Daily_report_submit_project.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Daily_report_submit_project\Daily_report_submit_project\obj\Debug\Daily_report_submit_project.pdb
