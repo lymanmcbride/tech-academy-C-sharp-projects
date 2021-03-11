@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.pdb
