@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\obj\Debug\Math_Operator_Assignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\obj\Debug\Math_Operator_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\bin\Debug\Math_Operator_Assignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\bin\Debug\Math_Operator_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\bin\Debug\Math_Operator_Assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\obj\Debug\Math_Operator_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Math_Operator_Assignment\Math_Operator_Assignment\obj\Debug\Math_Operator_Assignment.pdb
