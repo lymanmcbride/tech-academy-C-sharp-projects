@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\bin\Debug\Shipping_Quote_Branching.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\bin\Debug\Shipping_Quote_Branching.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\bin\Debug\Shipping_Quote_Branching.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\obj\Debug\Shipping_Quote_Branching.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\obj\Debug\Shipping_Quote_Branching.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\obj\Debug\Shipping_Quote_Branching.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Shipping_Quote_Branching\Shipping_Quote_Branching\obj\Debug\Shipping_Quote_Branching.pdb
