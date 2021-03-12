@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\bin\Debug\String_methods_assignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\bin\Debug\String_methods_assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\bin\Debug\String_methods_assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\obj\Debug\String_methods_assignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\obj\Debug\String_methods_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\obj\Debug\String_methods_assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\String_methods_assignment\String_methods_assignment\obj\Debug\String_methods_assignment.pdb
