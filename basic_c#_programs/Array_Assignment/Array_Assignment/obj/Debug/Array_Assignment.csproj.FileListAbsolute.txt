@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csprojAssemblyReference.cache
