@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\bin\Debug\Car Insurance Approval.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Car Insurance Approval\Car Insurance Approval\obj\Debug\Car Insurance Approval.pdb
