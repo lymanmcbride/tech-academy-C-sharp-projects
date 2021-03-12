@@ -12,16 +12,13 @@ namespace Car_Insurance_Approval
         {
             //Get info
             Console.WriteLine("What is your age?");
-            string age_string = Console.ReadLine();
-            Int16 age = Convert.ToInt16(age_string); //convert each bit of info to the corect data type
+            int age = Convert.ToInt16(Console.ReadLine());
 
             Console.WriteLine("Have you ever had a DUI?(True/False)");
-            string dui_string = Console.ReadLine();
-            bool dui = Convert.ToBoolean(dui_string);
+            bool dui = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("How many speeding tickets do you have?");
-            string tickets_string = Console.ReadLine();
-            Int16 tickets = Convert.ToInt16(tickets_string);
+            int tickets = Convert.ToInt16(Console.ReadLine());
 
             //A simple way to display true or false depending on whether each of the conditions are true
             bool qualified = (age > 15) && (!dui) && (tickets <= 3);
