@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\bin\Debug\Exceptions_Assignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\bin\Debug\Exceptions_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\bin\Debug\Exceptions_Assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\obj\Debug\Exceptions_Assignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\obj\Debug\Exceptions_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\obj\Debug\Exceptions_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Exceptions_Assignment\Exceptions_Assignment\obj\Debug\Exceptions_Assignment.pdb
