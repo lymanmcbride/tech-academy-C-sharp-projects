@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\bin\Debug\Iteration_Assignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Iteration_Assignment\Iteration_Assignment\obj\Debug\Iteration_Assignment.pdb
