@@ -6,22 +6,24 @@ using System.Threading.Tasks;
 
 namespace Methods_Assignment
 {
-    class common_math //class name
+    public class CommonMath //class name
     {
         //here are the three methods
-        public static int Squared(int num)
+        //note: static makes it available for use without instantiating an object.
+        //public means you do need to instantiate an object to use it.
+        public int Squared(int num)
         {
             int result = num * num;
             return result;
         }
 
-        public static int doubled(int num)
+        public int Doubled(int num)
         {
             int result = num + num;
             return result;
         }
 
-        public static double half(int num)
+        public double Half(int num)
         {
             double result = num * .5; //Whenver dividing, I always make it a floating point number for accuracy
             return result;
