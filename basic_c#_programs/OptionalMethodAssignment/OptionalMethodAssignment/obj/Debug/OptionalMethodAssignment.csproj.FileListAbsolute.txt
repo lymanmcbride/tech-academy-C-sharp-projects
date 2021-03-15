@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.pdb
