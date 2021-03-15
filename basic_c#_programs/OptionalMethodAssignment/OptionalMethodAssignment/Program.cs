@@ -11,10 +11,8 @@ namespace OptionalMethodAssignment
         static void Main(string[] args)
         {
             DefaultMath powerOf = new DefaultMath();
-            Console.WriteLine("Please enter at least one integer. " +
-                "\nIf you do two, the first number will be taken to the power of the second number." +
-                "\nTo do so, enter the first number, then press return, then enter the second number." +
-                "\nIf you do only one, the first number will be taken to the power of 1. Enter the first number then press enter twice.");
+            Console.WriteLine("Please enter two integers. The first one will be taken to the power of the second." +
+                "\nIf you only enter one it will be taken to the power of 1.");
             int num1 = Convert.ToInt32(Console.ReadLine());
             int result;
             try
@@ -28,7 +26,7 @@ namespace OptionalMethodAssignment
             }
 
             Console.WriteLine(
-                "The result of your math is: " + result
+                "The result is: " + result
                 );
             Console.ReadLine();
         }
