@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\VoidMethodAssignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.pdb
