@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.pdb
