@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubmit
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName() //this is the implementation of the abstract SayName Method
         {
@@ -18,6 +18,17 @@ namespace AbstractClassSubmit
             
             base.Introduction();
             Console.WriteLine("Employee");
+        }
+
+       public void Quit() //implementation of Quit for Employees
+        {
+            Console.WriteLine("Do you want to quit? y/n");
+            string response = Console.ReadLine().ToLower();
+
+            if (response == "y")
+            {
+                System.Environment.Exit(0);
+            }
         }
     }
 }

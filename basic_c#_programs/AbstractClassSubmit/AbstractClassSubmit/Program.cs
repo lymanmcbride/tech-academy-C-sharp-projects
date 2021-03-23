@@ -15,6 +15,9 @@ namespace AbstractClassSubmit
             //use the two methods
             Test.SayName();
             Console.ReadLine();
+
+            Test.Quit(); //calling quit method
+            
             Test.Introduction();
             Console.ReadLine();
         }
