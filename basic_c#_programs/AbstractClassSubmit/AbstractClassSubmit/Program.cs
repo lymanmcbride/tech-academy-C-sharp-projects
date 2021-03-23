@@ -16,7 +16,9 @@ namespace AbstractClassSubmit
             Test.SayName();
             Console.ReadLine();
 
-            Test.Quit(); //calling quit method
+            //create object of iquittable type. Instantiated polymorphed from Employee so it has Employee's functionality
+            IQuittable IQuit = new Employee() { FirstName = "Jeff", LastName = "Bridges" };
+            IQuit.Quit(); //calling quit method
             
             Test.Introduction();
             Console.ReadLine();
