@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\bin\Debug\LoggingPractice.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\bin\Debug\LoggingPractice.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\bin\Debug\LoggingPractice.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\obj\Debug\LoggingPractice.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\obj\Debug\LoggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\obj\Debug\LoggingPractice.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\LoggingPractice\LoggingPractice\obj\Debug\LoggingPractice.pdb
