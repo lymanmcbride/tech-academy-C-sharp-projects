@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\bin\Debug\ConstructorChaining.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\ConstructorChaining\ConstructorChaining\obj\Debug\ConstructorChaining.pdb
