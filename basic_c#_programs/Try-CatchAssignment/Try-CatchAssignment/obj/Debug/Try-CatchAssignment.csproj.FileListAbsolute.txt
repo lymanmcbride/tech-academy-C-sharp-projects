@@ -1,0 +1,7 @@
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.exe.config
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\bin\Debug\Try-CatchAssignment.pdb
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.csprojAssemblyReference.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.exe
+C:\Users\Lyman\Desktop\coding\portfolio_pieces\tech_academy_projects\tech-academy-C-sharp-projects\basic_c#_programs\Try-CatchAssignment\Try-CatchAssignment\obj\Debug\Try-CatchAssignment.pdb
