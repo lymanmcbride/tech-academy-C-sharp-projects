@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var dayOfWeek = DateTime.Now.DayOfWeek;
+    var month = DateTime.Now.ToString("MMMM");
+    var day = DateTime.Now.Day;
+    var greeting = $"Hello! Today is {dayOfWeek}, {month} {day}";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2>@greeting</h2>
+    <p>Current Server Time: @DateTime.Now</p>
+</div>
